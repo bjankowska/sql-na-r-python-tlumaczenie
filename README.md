@@ -10,7 +10,7 @@ Projekt był realizowany przeze mnie samodzielnie.
 ## Zawartość repozytorium
 * `travel_stackexchange_samples` - folder z próbkami danych
 * `projekt_sql_na_r.R` - plik z rozwiązaniami (R)
-* * `projekt_sql_na_python.py` - plik z rozwiązaniami (Python)
+* `projekt_sql_na_python.py` - plik z rozwiązaniami (Python)
 
 ## Technologie
 * **Język programowania**: R, Python, SQL
